@@ -128,7 +128,7 @@ Returns the number of clicks (visits) for the provided short URL ID.
 
    * POST a valid URL to `localhost:8082/url/` and get the shortened URL.
 
-   ![Short URL Response](image.png)
+   ![Short URL Response](image1.png)
 
 2. **Redirect via Short URL**:
 
