@@ -195,3 +195,16 @@ You can use **Postman** to test the API. Follow these steps:
 * Allow **Custom Short URLs** (e.g., `example.com/mycustomurl`).
 
 ---
+
+## User Authentication and dashboard features will be implemented in future updates.
+
+- Cookie-Parser: Middleware for handling cookies and session management.
+- Express-Session: Middleware for managing user sessions.
+
+## User Authentication:
+
+Sign up with POST http://localhost:8082/signup.
+
+Log in with POST http://localhost:8082/login.
+
+View and manage your URLs after logging in.
