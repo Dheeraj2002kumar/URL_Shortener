@@ -203,8 +203,8 @@ You can use **Postman** to test the API. Follow these steps:
 
 ## User Authentication:
 
-Sign up with POST http://localhost:8082/signup.
+Sign up with POST `/signup`.
 
-Log in with POST http://localhost:8082/login.
+Log in with POST `/login`.
 
 View and manage your URLs after logging in.
